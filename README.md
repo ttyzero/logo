@@ -4,7 +4,7 @@
 
 About the logo:
 
-The Logo was created by Timothy Stebbing (2018) using Inkscape and GIMP. 
+The Logo was created by Pomke (2018) using Inkscape and GIMP. 
 The ttyZero Logo is clearly a homage to the [BASH logo](https://github.com/odb/official-bash-logo) and as such is made available under the [Free Art License](http://artlibre.org/licence/lal/en/).
 
 ## APNG
